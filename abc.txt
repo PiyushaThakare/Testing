@@ -1,0 +1,59 @@
+Starting with the first topic-challenging project that i had undertook and overcomed
+
+IN final year of college we had to present a group project and
+we were randomly assigned different group of peoples as team members.
+ as i was managing team
+the very first challenge was to decide a project domain and topic so that every
+member in the group will be comfortable working on it as every member was 
+new to each other and following different technology. 
+finally we decided to take machine learning as 
+a domain and project topic was nework trafiic analysis with ml algorithm
+also many other technologies were involved in it 
+ managing team with 
+different technology was bit diffuclt
+
+Technical challenges arose during implementaion 
+phase we were short in dataset as ML need very large number of dataset
+and the attacks we were detecting was not available in the dataset
+but team continuosly conducted reaserches cosulted
+various documents and taken advices from experienced peoples and mentors
+we had given best in our areas that were known to us 
+ this collaborative 
+problem solving approch helped us overcome technical issue and ensure project 
+progress and lead us to learning new skills from other members and also teching the skills
+ to others
+ another challenge was deadlines this project was part of our academics so we
+had to manage this with studies and exams
+ so we distributed equal work to every 
+member about presentation and making journal with implementation.
+there was certain communication gap at starting but  collaborative efforts toward 
+the project made that project a success
+
+
+
+46344500
+moving forward with second topic if you write a book what will it about 
+and why the book will be about nature and finding peace with nature
+the title will be    harmony of nature
+
+as a person i love to travel to the places where i can connect to nature
+and explore the beauty of nature
+in the world full of polution and stress every one should take a break from
+their busy and hectic schedule and should explore the connection betn nature
+and inner peace. 
+as buddha has said if you wish to know the divine feel the wind
+on your face and the warm sun on your hand
+from bloom of spring to hush of winter each season offers unique lesson 
+on finding harmony within ourselves
+from sunrise to sunsets explore how simpple moments in nature gives us calm 
+and prsesnce
+various studies are don that highlight its positive impact on mental 
+health and stress reduction.nature gifts many benefits to human the air we breath the 
+water we drink and food we eat provides survival so we should always nurture our 
+mother  nature
+ this book will aim to transport reader
+to places of natural beauty encouraging them to reflect on their own 
+experience in nature it would also emphasizes the importance of preserving
+environment this book will serve as a guide to readers showcasing the power
+of nature in finding inner peace 
+
